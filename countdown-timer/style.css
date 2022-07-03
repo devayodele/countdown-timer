@@ -33,6 +33,7 @@ h2 {
   color: #add8ec;
   height: 55px;
   padding: 3px;
+  border-radius: 5px;
 }
 
 .number {
